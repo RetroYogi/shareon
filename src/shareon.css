@@ -198,10 +198,10 @@
 }
 
 .shareon > .twitter {
-  background-color: #1d9bf0;
+  background-color: #000000;
 }
 .shareon > .twitter:before {
-  background-image: url("icons/twitter.svg");
+  background-image: url("icons/x-white.svg");
 }
 
 .shareon > .viber {
